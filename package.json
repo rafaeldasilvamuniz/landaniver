@@ -16,7 +16,6 @@
   },
   "main": "aos.js",
   "dependencies": {
-    "css-select": "^5.1.0",
     "css-tree": "^2.3.1",
     "css-what": "^6.1.0",
     "csso": "^5.0.5",
