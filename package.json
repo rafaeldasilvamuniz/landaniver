@@ -16,7 +16,6 @@
   },
   "main": "aos.js",
   "dependencies": {
-    "csso": "^5.0.5",
     "decompress-response": "^6.0.0",
     "deep-extend": "^0.6.0",
     "detect-libc": "^1.0.3",
