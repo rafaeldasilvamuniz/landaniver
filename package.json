@@ -16,7 +16,6 @@
   },
   "main": "aos.js",
   "dependencies": {
-    "callsites": "^3.1.0",
     "caniuse-lite": "^1.0.30001436",
     "chalk": "^4.1.2",
     "chokidar": "^3.5.3",
