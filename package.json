@@ -16,7 +16,6 @@
   },
   "main": "aos.js",
   "dependencies": {
-    "chokidar": "^3.5.3",
     "chownr": "^1.1.4",
     "chrome-trace-event": "^1.0.3",
     "cli-progress": "^3.12.0",
