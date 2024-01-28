@@ -16,7 +16,6 @@
   },
   "main": "aos.js",
   "dependencies": {
-    "browserslist": "^4.21.4",
     "buffer": "^5.7.1",
     "callsites": "^3.1.0",
     "caniuse-lite": "^1.0.30001436",
