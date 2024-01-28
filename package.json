@@ -16,7 +16,6 @@
   },
   "main": "aos.js",
   "dependencies": {
-    "clone": "^2.1.2",
     "color": "^4.2.3",
     "color-convert": "^2.0.1",
     "color-name": "^1.1.4",
