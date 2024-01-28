@@ -16,7 +16,6 @@
   },
   "main": "aos.js",
   "dependencies": {
-    "bl": "^4.1.0",
     "boolbase": "^1.0.0",
     "braces": "^3.0.2",
     "browserslist": "^4.21.4",
