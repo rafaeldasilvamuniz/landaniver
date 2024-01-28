@@ -16,7 +16,6 @@
   },
   "main": "aos.js",
   "dependencies": {
-    "css-what": "^6.1.0",
     "csso": "^5.0.5",
     "decompress-response": "^6.0.0",
     "deep-extend": "^0.6.0",
